@@ -1,0 +1,4 @@
+/home/csugrads/olds0029/cs1581/KTNEgame/build/CMakeFiles/bombs.dir
+/home/csugrads/olds0029/cs1581/KTNEgame/build/CMakeFiles/test.dir
+/home/csugrads/olds0029/cs1581/KTNEgame/build/CMakeFiles/edit_cache.dir
+/home/csugrads/olds0029/cs1581/KTNEgame/build/CMakeFiles/rebuild_cache.dir

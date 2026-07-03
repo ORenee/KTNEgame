@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/csugrads/olds0029/cs1581/KTNEgame/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -Wpedantic -std=c++17 -o CMakeFiles/bombs.dir/Blinken.cpp.o -c /home/csugrads/olds0029/cs1581/KTNEgame/Blinken.cpp",
+  "file": "/home/csugrads/olds0029/cs1581/KTNEgame/Blinken.cpp"
+},
+{
+  "directory": "/home/csugrads/olds0029/cs1581/KTNEgame/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -Wpedantic -std=c++17 -o CMakeFiles/bombs.dir/Bomb.cpp.o -c /home/csugrads/olds0029/cs1581/KTNEgame/Bomb.cpp",
+  "file": "/home/csugrads/olds0029/cs1581/KTNEgame/Bomb.cpp"
+},
+{
+  "directory": "/home/csugrads/olds0029/cs1581/KTNEgame/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -Wpedantic -std=c++17 -o CMakeFiles/bombs.dir/Knob.cpp.o -c /home/csugrads/olds0029/cs1581/KTNEgame/Knob.cpp",
+  "file": "/home/csugrads/olds0029/cs1581/KTNEgame/Knob.cpp"
+},
+{
+  "directory": "/home/csugrads/olds0029/cs1581/KTNEgame/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -Wpedantic -std=c++17 -o CMakeFiles/bombs.dir/LevelEndExcep.cpp.o -c /home/csugrads/olds0029/cs1581/KTNEgame/LevelEndExcep.cpp",
+  "file": "/home/csugrads/olds0029/cs1581/KTNEgame/LevelEndExcep.cpp"
+},
+{
+  "directory": "/home/csugrads/olds0029/cs1581/KTNEgame/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -Wpedantic -std=c++17 -o CMakeFiles/bombs.dir/main.cpp.o -c /home/csugrads/olds0029/cs1581/KTNEgame/main.cpp",
+  "file": "/home/csugrads/olds0029/cs1581/KTNEgame/main.cpp"
+},
+{
+  "directory": "/home/csugrads/olds0029/cs1581/KTNEgame/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -Wpedantic -std=c++17 -o CMakeFiles/bombs.dir/Maze.cpp.o -c /home/csugrads/olds0029/cs1581/KTNEgame/Maze.cpp",
+  "file": "/home/csugrads/olds0029/cs1581/KTNEgame/Maze.cpp"
+},
+{
+  "directory": "/home/csugrads/olds0029/cs1581/KTNEgame/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -Wpedantic -std=c++17 -o CMakeFiles/bombs.dir/ModuleEndExcep.cpp.o -c /home/csugrads/olds0029/cs1581/KTNEgame/ModuleEndExcep.cpp",
+  "file": "/home/csugrads/olds0029/cs1581/KTNEgame/ModuleEndExcep.cpp"
+},
+{
+  "directory": "/home/csugrads/olds0029/cs1581/KTNEgame/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -Wpedantic -std=c++17 -o CMakeFiles/bombs.dir/ModulesInfo.cpp.o -c /home/csugrads/olds0029/cs1581/KTNEgame/ModulesInfo.cpp",
+  "file": "/home/csugrads/olds0029/cs1581/KTNEgame/ModulesInfo.cpp"
+},
+{
+  "directory": "/home/csugrads/olds0029/cs1581/KTNEgame/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -Wpedantic -std=c++17 -o CMakeFiles/bombs.dir/Input.cpp.o -c /home/csugrads/olds0029/cs1581/KTNEgame/Input.cpp",
+  "file": "/home/csugrads/olds0029/cs1581/KTNEgame/Input.cpp"
+},
+{
+  "directory": "/home/csugrads/olds0029/cs1581/KTNEgame/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -Wpedantic -std=c++17 -o CMakeFiles/bombs.dir/Wires.cpp.o -c /home/csugrads/olds0029/cs1581/KTNEgame/Wires.cpp",
+  "file": "/home/csugrads/olds0029/cs1581/KTNEgame/Wires.cpp"
+},
+{
+  "directory": "/home/csugrads/olds0029/cs1581/KTNEgame/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -Wpedantic -std=c++17 -o CMakeFiles/bombs.dir/WordMods.cpp.o -c /home/csugrads/olds0029/cs1581/KTNEgame/WordMods.cpp",
+  "file": "/home/csugrads/olds0029/cs1581/KTNEgame/WordMods.cpp"
+}
+]
